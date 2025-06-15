@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spotify MCP Server for Claude Desktop
 
 A Message Control Protocol (MCP) server that enables Claude Desktop to control Spotify playback through natural language commands.
@@ -118,3 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Spotipy](https://github.com/spotipy-dev/spotipy) - Python library for the Spotify Web API
 - [Flask](https://flask.palletsprojects.com/) - Web framework
 - [Claude Desktop](https://claude.ai/) - AI assistant 
+=======
+# MCP_Server_Spotify
+>>>>>>> 5288f1d010d9cb20435bde5e0798226500eb0489
