@@ -1,0 +1,22 @@
+{
+    "mcpServers": {
+        "spotify": {
+            "command": "python",
+            "args": [
+                "C:/Users/Hashim/Desktop/mcp_spotify/run_spotify_server.py"
+            ],
+            "cwd": "C:/Users/Hashim/Desktop/mcp_spotify",
+            "commandPatterns": [
+                "play (.*) on spotify",
+                "search for (.*) on spotify",
+                "pause (the )?music",
+                "resume playback",
+                "skip to (the )?next track",
+                "go back to (the )?previous track",
+                "what song is (currently )?playing",
+                "check if spotify is connected"
+            ],
+            "description": "Control Spotify music playback"
+        }
+    }
+} 
